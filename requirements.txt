@@ -1,0 +1,15 @@
+streamlit
+pandas
+openpyxl
+PyPDF2
+pdfplumber
+python-docx
+openai
+langchain
+langchain-openai
+pydantic
+pypdfium2
+Pillow
+python-dotenv
+docx2pdf
+reportlab
