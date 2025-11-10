@@ -4,6 +4,8 @@
   <img src="static/homePage.png" alt="AI-Powered Resume Screener - Upload Page" width="100%" />
 </p>
 
+### [Live Demo](https://resume-screener-001.streamlit.app/)
+
 An intelligent resume screening application built with Python, Streamlit, LangChain, and OpenAI that automates extraction and analysis of candidate information from resumes using cutting-edge AI.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
@@ -284,8 +286,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [Rahul9182](https://github.com/Rahul9182/)
+- LinkedIn: [Raj Patel](https://linkedin.com/in/raj-patel-2k2)
 
 ## 🙏 Acknowledgments
 
